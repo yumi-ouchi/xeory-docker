@@ -1,0 +1,9 @@
+@charset "utf-8";
+/*
+Theme Name: xeory_extension_child
+Template: xeory_extension
+*/
+
+#logo a {
+    color: red;
+}
